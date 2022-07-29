@@ -1,25 +1,25 @@
 ### 👋 Hi there, welcome to my profile 😽
-### 🤔 What to see here?...
 ### 👾 Let me introduce myself first
+
+**I'm Frontend Development passionate about technology and learning, I'm practicing projects from Platzi and usually create 3D models with Blender.**
+
+**My favorite things in life are video-games, music and nature. Along life I've been a big lover to this tech world, from the smallest chip to the biggest servers, consoles and computers.**
 #
 > Find me around the web 🌍
 - [Twitter ](https://twitter.com/victorcar86_):shipit:
-- **E-mail:** ```vmanuelcar@gmail.com```
+- **E-mail:** ```vmanuelcar@hotmail.com```
 #
-**I'm currently learning technologies of Frontend Development, to create 3D models with Blender, and practicing projects from Platzi.**
+🌱 JavaScript is my first programming and I've found it as a fantastic tool (React is one of them, and pretty soon C could be one as well)
 
-**My favorite things in life are video-games, music and nature. Big love to technology, from the smallest chip to the biggest servers and computers.**
-
-🌱 JavaScript is my first programming and I've found it as a fantastic tool (React and C could be my best as well)
-
-💬 Ask me about whatever you want, the world is too giant to explorer and I enjoy learning new things uwu
+💬 Ask me about whatever you want, our world is too giant to explorer and I enjoy learning new things around every topic uwu
 
 😄 My pronouns are he / his
 #
 ### 🛠 My projects
-- [Timer JS](https://victorcar86.github.io/Chronometer-Timer-Pomodoro/) - This is a chronometer, timer and pomodoro made with JavaScript
-- [Cute Cats API](https://victorcar86.github.io/Cat-api-mobile/) - Randomizer cats page developed with thecatapi.com
-- [Cripto Promo Page](https://victorcar86.github.io/Mobile-First-Crypto-Page/) - Mobile first page promoting an exchange company of Bitcoin
+- 🐱‍👓 [Pokemon-API](https://github.com/VictorCar86/Pokemon-API) - Search for your favorite Pokémons and watch their stats - (Vanilla JS)
+- 🌦 [Weather App](https://github.com/VictorCar86/weather-app-withreact) - If you want to make picnic, make sure weather is appropriate in your city - (React)
+- ⏲ [Timer JS](https://github.com/VictorCar86/Chronometer-Timer-Pomodoro) - This is a chronometer, timer and pomodoro made with JavaScript - (Vanilla JS)
+- 💰 [Cripto Promo Page](https://victorcar86.github.io/Mobile-First-Crypto-Page) - Mobile first page promoting an exchange company of Bitcoin - (HTML, CSS)
 #
 ### 🎯 Usual technologies I use:
 ![image](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
