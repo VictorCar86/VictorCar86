@@ -18,8 +18,8 @@
 ### 🛠 My projects
 - 🐱‍👓 [Pokemon-API](https://github.com/VictorCar86/Pokemon-API) - Search for your favorite Pokémons and watch their stats - (Vanilla JS)
 - 🌦 [Weather App](https://github.com/VictorCar86/weather-app-withreact) - If you want to make picnic, make sure weather is appropriate in your city - (React)
-- ⏲ [Timer JS](https://github.com/VictorCar86/Chronometer-Timer-Pomodoro) - This is a chronometer, timer and pomodoro made with JavaScript - (Vanilla JS)
-- 💰 [Cripto Promo Page](https://victorcar86.github.io/Mobile-First-Crypto-Page) - Mobile first page promoting an exchange company of Bitcoin - (HTML, CSS)
+- ⏲ [Ultimate Timer](https://github.com/VictorCar86/Chronometer-Timer-Pomodoro) - This is a chronometer, timer and pomodoro made with JavaScript - (Vanilla JS)
+- 🔠 [WordleJS](https://github.com/VictorCar86/WordleJS) - Play wordle with no restrictions of time, a new word every time (Vanilla JS)
 #
 ### 🎯 Usual technologies I use:
 ![image](https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)
