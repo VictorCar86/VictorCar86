@@ -16,8 +16,9 @@
 😄 My pronouns are he / his
 #
 ### 🛠 My projects
-- 🐱‍👓 [Pokemon-API](https://github.com/VictorCar86/Pokemon-API) - Search for your favorite Pokémons and watch their stats - (Vanilla JS)
-- 🌦 [Weather App](https://github.com/VictorCar86/weather-app-withreact) - If you want to make picnic, make sure weather is appropriate in your city - (React)
+- 🍝 [La Regina - Italian Restaurant](https://github.com/VictorCar86/La_Regina_italian_restaurant) - Enjoy our plates and wines reserving a place in our comfortable restaurant - (React)
+- 🐱‍👓 [Pokedex - API](https://github.com/VictorCar86/Pokemon-API) - Search for your favorite Pokémons and watch their stats - (Vanilla JS)
+- 🌦 [Weather React App](https://github.com/VictorCar86/weather-app-withreact) - If you want to make picnic, make sure weather is appropriate in your city - (React)
 - ⏲ [Ultimate Timer](https://github.com/VictorCar86/Chronometer-Timer-Pomodoro) - This is a chronometer, timer and pomodoro made with JavaScript - (Vanilla JS)
 - 🔠 [WordleJS](https://github.com/VictorCar86/WordleJS) - Play wordle with no restrictions of time, a new word every time (Vanilla JS)
 #
