@@ -15,7 +15,7 @@
 #
 
 ### 🛠 My projects
-- 🛒 [Alifake - Mobile E-Commerce](https://alifake.netlify.app) - Browse products, compare prices, and make purchases with this e-commerce platform. (React)
+- 🛒 [Alifake - Mobile E-Commerce](https://github.com/VictorCar86/AliFake-Mobile-E-Commerce) - Browse products, compare prices, and make purchases with this e-commerce platform. (React)
 - 🍝 [La Regina - Italian Restaurant](https://github.com/VictorCar86/La_Regina_italian_restaurant) - Enjoy our plates and wines reserving a place in our comfortable restaurant - (React)
 - 🐱‍👓 [Pokedex - API](https://github.com/VictorCar86/Pokemon-API) - Search for your favorite Pokémons and watch their stats - (Vanilla JS)
 - 🌦 [Weather React App](https://github.com/VictorCar86/weather-app-withreact) - If you want to make picnic, make sure weather is appropriate in your city - (React)
