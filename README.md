@@ -1,6 +1,6 @@
 ### 👋 Hi there, welcome to my profile
 
-**💻 I'm Victor, web developer with more than two year of experience in making code in Frontend and Backend environments. My passion for web development has driven me to continuously enhance my skills through self-study and online resources such as blogs, videos, and books. Additionally, I'm proficient in English with a B2 level and actively working to improve it further.**
+**💻 I'm Victor, web developer with more than two years of experience in making code in Frontend and Backend environments. My passion for web development has driven me to continuously enhance my skills through self-study and online resources such as blogs, videos, and books. Additionally, I'm proficient in English with a B2 level and actively working to improve it further.**
 
 **🎯 As a developer, I am motivated by creating great user experiences, solving real-world problems through technology, and developing valuable products. My ultimate goal is to have a positive impact on the industry and contribute to its growth.**
 
