@@ -1,17 +1,16 @@
 ### 👋 Hi there, welcome to my profile
 
-**💻 I'm Victor, a web developer with more than a year of experience in web technologies and tools such as HTML5, CSS3, JavaScript, React, Redux, Tailwind, Webpack, Vite, Node, Express, PostgreSQL. My passion for web development has driven me to continuously enhance my skills through self-study and online resources such as blogs, videos, and books. Additionally, I'm proficient in English with a B2 level and actively working to improve it further.**
+**💻 I'm Victor, web developer with more than two year of experience in making code in Frontend and Backend environments. My passion for web development has driven me to continuously enhance my skills through self-study and online resources such as blogs, videos, and books. Additionally, I'm proficient in English with a B2 level and actively working to improve it further.**
 
 **🎯 As a developer, I am motivated by creating great user experiences, solving real-world problems through technology, and developing valuable products. My ultimate goal is to have a positive impact on the industry and contribute to its growth.**
 
 **📲 To showcase my skills and projects, please check out my portfolio. You will find a glimpse of my work and some useful information that might interest you. 👇**
 
-🔗 [Personal Webpage](victorcarreno.website)
+🔗 [Personal Webpage](https://victorcar86.netlify.app/)
 
 #
 > Find me around the web 🌍
 - [LinkedIn](https://www.linkedin.com/in/victorcar86/) 💼
-- [Twitter ](https://twitter.com/victorcar86_):shipit:
 #
 
 ### 🛠 My projects
