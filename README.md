@@ -6,7 +6,7 @@
 
 **📲 Check out my portfolio!! You will find a glimpse of my work and some useful information that might interest you. 👇**
 
-[Personal Webpage](https://victorcar86.netlify.app/) 🔗
+[Personal Webpage](https://victorcarreno.netlify.app/) 🔗
 
 **🌍 Find me around the web**
 
@@ -15,12 +15,13 @@
 #
 
 ### 🛠 My projects
+- 🛹 [Skate-Next-Shop](https://github.com/VictorCar86/SkateNextShop) - Specialized E-Commerce empowered with AI for skateboarding amateurs and enthusiasts - WIP
+- 💾 [QRCode-Koala](https://github.com/VictorCar86/QRCode-Koala) - QR code generator that allows users to create customizable and dynamic QR codes for various purposes - WIP
 - 🏡 [YardSale - E-Commerce](https://github.com/VictorCar86/YardSale-E-Commerce) - Create user accounts, explore products by categories and make orders for your own
 - 🛒 [Alifake - Mobile E-Commerce](https://github.com/VictorCar86/AliFake-Mobile-E-Commerce) - Search for specific products, make your own wish list and shopping cart
 - 🍝 [La Regina - Italian Restaurant](https://github.com/VictorCar86/La_Regina_italian_restaurant) - Enjoy our plates and wines reserving a place in our comfortable restaurant
 - 😺 [Pokedex - API](https://github.com/VictorCar86/Pokemon-API) - Search for your favorite Pokémons and watch their stats
-- 🌦 [Weather React App](https://github.com/VictorCar86/weather-app-withreact) - If you want to make picnic, make sure weather is appropriate in your city
-- ⏲ [Ultimate Timer](https://github.com/VictorCar86/Chronometer-Timer-Pomodoro) - This is a chronometer, timer and pomodoro made with JavaScript
+- 🌦 [Weather React App](https://github.com/VictorCar86/Weather-React-App) - If you want to make picnic, make sure weather is appropriate in your city
 
 #
 
@@ -34,7 +35,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
@@ -49,4 +49,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
